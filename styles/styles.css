@@ -1,0 +1,50 @@
+.main-headingA {
+    width: 360px;
+    height: 54px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #FFF;
+    width: 274px
+    color: var(--grey-600, #757575);
+    font-family: Roboto;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px; /* 66.667% */
+    letter-spacing: 0.25px;
+    color: var(--grey-900, #020202);
+    text-align: right;
+    /* Button */
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; /* 114.286% */
+    letter-spacing: 1.25px;
+    text-transform: uppercase;
+}
+
+.main-headingB {
+    width: 360px;
+    height: 54px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: var(--White, #FFF);
+}
+
+.main-heading2A {
+    width: 360px;
+    height: 54px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: var(--White, #FFF);
+}
+
+.main-heading2B {
+    width: 360px;
+    height: 54px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 25px 43px 0px rgba(0, 0, 0, 0.12);
+}
